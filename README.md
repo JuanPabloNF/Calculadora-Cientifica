@@ -1,4 +1,5 @@
 Calculadora de Notação Científica em C++
+
 Este é um programa simples de calculadora implementado em C++ que realiza operações matemáticas básicas (soma, subtração, multiplicação e divisão) entre dois números fornecidos em notação científica.
 
 Funcionalidades
